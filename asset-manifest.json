@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.7c9221b1.css",
-  "main.css.map": "static/css/main.7c9221b1.css.map",
-  "main.js": "static/js/main.4e440717.js",
-  "main.js.map": "static/js/main.4e440717.js.map",
+  "main.css": "static/css/main.1b643b1f.css",
+  "main.css.map": "static/css/main.1b643b1f.css.map",
+  "main.js": "static/js/main.1459834d.js",
+  "main.js.map": "static/js/main.1459834d.js.map",
   "static/media/11.png": "static/media/11.9c0c65a4.png",
   "static/media/22.png": "static/media/22.f2ab932b.png",
   "static/media/33.png": "static/media/33.b4083f58.png",
@@ -16,10 +16,13 @@
   "static/media/Sitemap.jpg": "static/media/Sitemap.007fa326.jpg",
   "static/media/aboutmepic.jpeg": "static/media/aboutmepic.a736bc45.jpeg",
   "static/media/banner-butt.svg": "static/media/banner-butt.fb0a2592.svg",
+  "static/media/biniiii.jpg": "static/media/biniiii.66cb0828.jpg",
   "static/media/braingoal.jpg": "static/media/braingoal.b1080bed.jpg",
   "static/media/brainstorming.jpg": "static/media/brainstorming.925853be.jpg",
   "static/media/competitors.jpg": "static/media/competitors.e7a57638.jpg",
   "static/media/delaramImage.png": "static/media/delaramImage.e831b742.png",
+  "static/media/gif1.gif": "static/media/gif1.e9dd173d.gif",
+  "static/media/gif2.gif": "static/media/gif2.6d3c3dbc.gif",
   "static/media/hik-process.png": "static/media/hik-process.0449d3dc.png",
   "static/media/hik-prototype-1.svg": "static/media/hik-prototype-1.b8985cdf.svg",
   "static/media/hik-prototype-2.svg": "static/media/hik-prototype-2.8e6997fc.svg",
@@ -30,6 +33,7 @@
   "static/media/mainImage.svg": "static/media/mainImage.3b5c4863.svg",
   "static/media/newnew.png": "static/media/newnew.1f52d080.png",
   "static/media/observation.png": "static/media/observation.6af76c4e.png",
+  "static/media/omid-illus.png": "static/media/omid-illus.ec5d5492.png",
   "static/media/persona-hik.png": "static/media/persona-hik.d89fd9b9.png",
   "static/media/problems.jpg": "static/media/problems.ca56ea1c.jpg",
   "static/media/process-butterfold.png": "static/media/process-butterfold.31723efd.png",
@@ -46,5 +50,6 @@
   "static/media/wondergeneCover.png": "static/media/wondergeneCover.6d93cf7f.png",
   "static/media/wondergeneLogo.png": "static/media/wondergeneLogo.a2afeb69.png",
   "static/media/wondergeneProcess.png": "static/media/wondergeneProcess.4f57aa8e.png",
-  "static/media/workshop.png": "static/media/workshop.11ae6114.png"
+  "static/media/workshop.png": "static/media/workshop.11ae6114.png",
+  "static/media/yoga-illus2.png": "static/media/yoga-illus2.668c92ab.png"
 }
